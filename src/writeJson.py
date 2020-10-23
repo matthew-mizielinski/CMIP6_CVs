@@ -960,7 +960,7 @@ del(tmp)
 # Fix issues
 key = 'UKESM1-0-LL'
 source_id[key]['activity_participation'].append('DAMIP')
-
+source_id[key]['activity_participation'].sort()
 
 #key = 'CAM-MPAS-LR'
 #source_id[key] = {}

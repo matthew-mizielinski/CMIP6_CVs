@@ -9279,13 +9279,13 @@
         }
     },
     "version_metadata":{
-        "CV_collection_modified":"Fri Oct 23 15:37:44 2020 00100",
+        "CV_collection_modified":"Fri Oct 23 15:47:36 2020 00100",
         "CV_collection_version":"6.2.53.15",
         "author":"Matthew Mizielinski <matthew.mizielinski@metoffice.gov.uk>",
         "experiment_id_CV_modified":"Wed May 20 16:39:54 2020 -0700",
         "experiment_id_CV_note":"Revise experiment_id ssp370-lowNTCFCH4",
         "institution_id":"MOHC",
-        "previous_commit":"6d11b9508fd918d49a9a657f288e31930597408b",
+        "previous_commit":"bd8631ad180d3e820d0d50eef8474ff192cad643",
         "specs_doc":"v6.2.7 (10th September 2018; https://goo.gl/v1drZl)"
     }
 }

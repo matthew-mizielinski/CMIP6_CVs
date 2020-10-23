@@ -61,10 +61,10 @@
             "timeStamp":"Thu Dec 19 15:32:17 2019 -0800"
         },
         "source_id":{
-            "MD5":"6d11b9508fd918d49a9a657f288e31930597408b",
-            "URL":"https://github.com/WCRP-CMIP/CMIP6_CVs/commit/6d11b9508fd918d49a9a657f288e31930597408b",
+            "MD5":"bd8631ad180d3e820d0d50eef8474ff192cad643",
+            "URL":"https://github.com/WCRP-CMIP/CMIP6_CVs/commit/bd8631ad180d3e820d0d50eef8474ff192cad643",
             "commitMessage":"Register UKESM1-0-LL for DAMIP (#975)",
-            "timeStamp":"Fri Oct 23 15:37:44 2020 00100"
+            "timeStamp":"Fri Oct 23 15:47:36 2020 00100"
         },
         "source_type":{
             "MD5":"fa3f07e9c215b35e0a54737acba2c2a9f6b8901f",
